@@ -1,6 +1,6 @@
 [![Electron Logo](http://electron.atom.io/images/electron-logo.svg)](http://electron.atom.io/)
 
-[![Travis Build Status](https://travis-ci.org/electron/electron.svg?branch=master)](https://travis-ci.org/electron/electron)
+[![Travis Build Status](https://travis-ci.org/VideoClient/electron.svg?branch=ffmpeg-fix)](https://travis-ci.org/VideoClient/electron)
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/kvxe4byi7jcxbe26/branch/master?svg=true)](https://ci.appveyor.com/project/Atom/electron)
 [![devDependency Status](https://david-dm.org/electron/electron/dev-status.svg)](https://david-dm.org/electron/electron?type=dev)
 [![Join the Electron Community on Slack](http://atom-slack.herokuapp.com/badge.svg)](http://atom-slack.herokuapp.com/)
