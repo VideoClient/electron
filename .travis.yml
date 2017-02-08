@@ -3,6 +3,7 @@ git:
 notifications:
   email: false
 
+sudo: true
 language: node_js
 node_js:
   - "4"
